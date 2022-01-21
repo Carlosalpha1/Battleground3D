@@ -1,0 +1,5 @@
+### SERVER SETTINGS
+
+HOST = "localhost"
+PORT = 34343
+MAX_CLIENTS = 4
