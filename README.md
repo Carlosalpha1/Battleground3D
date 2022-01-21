@@ -12,8 +12,8 @@ pip3 install ursina[extras]
 ~~~
 
 ## Tasks to do ...
-- [] Menu
-- [] Cliente Development
-- [] Server Development
-- [] Game mechanics
+- [ ] Menu
+- [ ] Cliente Development
+- [ ] Server Development
+- [ ] Game mechanics
 
